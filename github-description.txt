@@ -1,1 +1,0 @@
-Agent-ready GenLayer builder playbook: confirmed GenVM nondet bug catalog, contract skeletons, direct-mode test template, audit scripts, portal acceptance/rejection lessons, and build checklists.
